@@ -1,0 +1,100 @@
+age_group,gender,education_level,employment_status,unemployment_duration,previous_experience,target_job_type,skill_alignment,skill_training,job_seeking_status,primary_barrier,preferred_sector,issue_severity_perception,proposed_solution
+18–24,Female,Postgraduate,Unemployed,Less than 6 months,No,Full-time,Yes,No,Yes,Lack of experience,Private,Yes,Skill development
+18–24,Female,Postgraduate,Employed,More than 1 year,No,Full-time,Partially,Yes,Yes,Fewer job opportunities,Private,Yes,Government support
+18–24,Male,Postgraduate,Student,Not applicable,Yes,Full-time,Yes,Maybe,Yes,Lack of experience,Private,Yes,Skill development
+18–24,Male,Undergraduate,Student,Not applicable,No,Part-time,Yes,Yes,Sometimes,Fewer job opportunities,Private,Yes,Skill development
+18–24,Male,Undergraduate,Unemployed,Not applicable,No,Part-time,No,No,No,Fewer job opportunities,Other,No,Skill development
+18–24,Female,Postgraduate,Student,Not applicable,Yes,Internship,Yes,Yes,Yes,Lack of experience,Private,Yes,Job creation
+18–24,Female,Undergraduate,Student,Not applicable,Yes,Full-time,Partially,Maybe,Sometimes,Lack of experience,Private,Yes,Skill development
+18–24,Male,Undergraduate,Unemployed,Less than 6 months,Yes,Full-time,Yes,Yes,Yes,Lack of experience,Private,Yes,Job creation
+18–24,Male,Undergraduate,Student,Not applicable,Yes,Part-time,Partially,No,Yes,Lack of experience,Government,Yes,Skill development
+18–24,Male,School level,Student,Not applicable,No,Full-time,Partially,No,No,Fewer job opportunities,Government,Yes,Government support
+18–24,Female,Undergraduate,Student,Not applicable,No,Part-time,Yes,Yes,Yes,Lack of skills,Government,Yes,Skill development
+25–34,Male,Postgraduate,Student,Not applicable,No,Full-time,Partially,Yes,Sometimes,Lack of experience,Private,Yes,Government support
+18–24,Male,Undergraduate,Student,Not applicable,No,Full-time,Partially,Yes,No,Lack of skills,Private,Yes,Skill development
+18–24,Female,Undergraduate,Student,Not applicable,No,Part-time,No,No,No,Lack of experience,Private,Yes,Skill development
+18–24,Female,School level,Student,Not applicable,No,Part-time,Partially,Yes,Sometimes,Fewer job opportunities,Other,Yes,Job creation
+18–24,Male,Undergraduate,Unemployed,Less than 6 months,No,Full-time,Yes,No,Yes,Lack of experience,Private,Yes,Job creation
+18–24,Male,Undergraduate,Student,Not applicable,No,Full-time,Partially,No,Sometimes,Lack of experience,Government,Yes,"I don't know , maybe increase the employment rate?"
+18–24,Male,Postgraduate,Student,Not applicable,No,Full-time,Partially,Yes,Sometimes,Lack of experience,Government,Maybe,Government support
+18–24,Male,Undergraduate,Student,Not applicable,No,Part-time,Partially,No,No,Lack of skills,Private,Yes,Skill development
+18–24,Male,Postgraduate,Employed,Not applicable,Yes,I am already employed,Yes,Maybe,No,Lack of skills,Private,Yes,Skill development
+18–24,Female,Undergraduate,Student,Not applicable,No,Part-time,Partially,No,No,Fewer job opportunities,Government,Yes,Government support
+18–24,Male,Undergraduate,Unemployed,Not applicable,No,Intership ,Yes,No,Sometimes,Fewer job opportunities,Government,Yes,Government support
+18–24,Female,Undergraduate,Student,Not applicable,No,Part-time,Partially,No,No,Fewer job opportunities,Government,Maybe,Government support
+18–24,Female,Undergraduate,Student,Not applicable,No,Part-time,Partially,Yes,Sometimes,Lack of experience,Government,Yes,Job creation
+18–24,Male,Undergraduate,Student,Not applicable,No,Full-time,Partially,No,Yes,Lack of skills,Private,Yes,Skill development
+18–24,Male,Undergraduate,Student,Not applicable,Yes,work from home for better flexibility ,Partially,Maybe,Yes,Lack of skills,Government,Yes,with all 3 options indian education system need to be updated in the world of high tech technology we are still learning the 2002 microprocessor etc or else basic coding in a degree that need to be thought in a school and there many problems india need to be focused. 
+18–24,Female,Undergraduate,Student,Not applicable,No,Part-time,Partially,Yes,Sometimes,Lack of experience,Private,Yes,Government support
+18–24,Female,Undergraduate,Unemployed,More than 1 year,No,Part-time,Partially,No,No,Lack of experience,Government,Maybe,Job creation
+18–24,Male,Undergraduate,Student,Not applicable,No,Part-time,No,No,Yes,Lack of skills,Government,Yes,Skill development
+18–24,Male,Undergraduate,Student,Not applicable,Yes,No job,No,No,No,Lack of experience,Private,Yes,Job creation
+18–24,Male,Undergraduate,Student,Not applicable,No,Full-time,Yes,Yes,Yes,Fewer job opportunities,Private,Maybe,If not a job startup a businesses idea and which is creative and have aspce in real world problem with the solution 
+18–24,Male,Undergraduate,Student,Less than 6 months,No,Part-time,Yes,No,No,Lack of experience,Government,Yes,Skill development
+18–24,Male,Undergraduate,Student,Not applicable,No,Full-time,Partially,Yes,Sometimes,Lack of experience,Private,Yes,Skill development
+18–24,Female,Undergraduate,Student,Not applicable,No,Devloper,No,No,Sometimes,Lack of experience,Private,No,Government support
+18–24,Female,School level,Student,Not applicable,No,Part-time,Partially,No,No,Lack of skills,Private,Yes,Government support
+25–34,Female,Postgraduate,Student,Not applicable,No,Full-time,Partially,Yes,No,Lack of experience,Private,Yes,Skill development
+18–24,Female,Undergraduate,Student,Less than 6 months,Yes,Part-time,Partially,Maybe,Yes,Lack of skills,Other,Yes,Skill development
+18–24,Male,Undergraduate,Student,Not applicable,Yes,Part-time,Partially,No,Sometimes,Lack of skills,Government,Yes,Job creation
+18–24,Male,Postgraduate,Employed,Less than 6 months,Yes,Full-time,Partially,Yes,Yes,Fewer job opportunities,Private,Yes,Job creation
+18–24,Male,Undergraduate,Student,Less than 6 months,No,Part-time,Partially,No,No,Fewer job opportunities,Other,Yes,Skill development
+18–24,Male,Undergraduate,Student,Not applicable,No,Full-time,No,Yes,No,Lack of experience,Government,Yes,Job creation
+18–24,Male,Undergraduate,Student,Not applicable,No,Full-time,Yes,Maybe,No,Lack of experience,Private,Yes,Skill development
+18–24,Male,Undergraduate,Student,Not applicable,No,Part-time,Yes,Yes,Yes,Fewer job opportunities,Government,Yes,Job creation
+25–34,Male,Postgraduate,Student,Not applicable,No,Part-time,Partially,Yes,Yes,Lack of skills,Government,Yes,Skill development
+18–24,Male,Undergraduate,Unemployed,More than 1 year,No,Full-time,Yes,Yes,Yes,Fewer job opportunities,Private,Yes,Job creation
+18–24,Male,Postgraduate,Student,Not applicable,Yes,Full-time,Partially,Yes,Yes,Lack of experience,Other,Maybe,Skill development
+18–24,Female,Undergraduate,Student,Less than 6 months,Yes,Part-time,Partially,No,Yes,Lack of skills,Other,Maybe,Skill development
+18–24,Male,Undergraduate,Student,Not applicable,No,Part-time,Partially,No,No,Lack of skills,Other,Yes,Skill development
+18–24,Female,Postgraduate,Employed,Not applicable,No,Full-time,Yes,Yes,Sometimes,Lack of experience,Private,Yes,Job creation
+18–24,Male,Undergraduate,Employed,Less than 6 months,Yes,Full-time,Yes,Yes,No,Lack of experience,Private,Yes,Job creation
+18–24,Male,Undergraduate,Student,Not applicable,No,Full-time,Yes,No,No,Fewer job opportunities,Government,Maybe,Government support
+18–24,Male,Undergraduate,Student,Not applicable,No,Part-time,No,Maybe,No,Lack of skills,Other,No,Skill development
+18–24,Female,Undergraduate,Student,Not applicable,No,Part-time,Partially,No,No,Lack of experience,Other,Yes,Government support
+18–24,Male,Undergraduate,Student,Not applicable,Yes,Full-time,Yes,Yes,No,Lack of skills,Private,Yes,Skill development
+25–34,Male,Undergraduate,Unemployed,Less than 6 months,Yes,Full-time,No,Yes,Yes,Lack of experience,Government,Yes,Government support
+18–24,Female,Undergraduate,Student,Less than 6 months,Yes,Part-time,No,No,No,Lack of experience,Government,Yes,Government support
+18–24,Male,Undergraduate,Student,Not applicable,No,Full-time,Yes,No,No,Fewer job opportunities,Private,No,Skill development
+18–24,Female,Undergraduate,Unemployed,Not applicable,No,Part-time,No,No,Sometimes,Fewer job opportunities,Other,Yes,Job creation
+18–24,Male,School level,Unemployed,6–12 months,No,Part-time,No,No,Yes,Lack of skills,Government,Yes,Government support
+18–24,Male,Undergraduate,Student,6–12 months,No,Part-time,Partially,No,Sometimes,Fewer job opportunities,Government,Yes,Skill development
+18–24,Male,Undergraduate,Student,Not applicable,No,Full-time,Yes,Maybe,Sometimes,Lack of experience,Private,Yes,Skill development
+18–24,Male,Undergraduate,Student,Not applicable,No,Full-time,No,Maybe,No,Lack of skills,Private,Yes,Skill development
+18–24,Female,Undergraduate,Student,Not applicable,No,Full-time,Partially,No,No,Lack of skills,Private,Yes,Job creation
+25–34,Male,Postgraduate,Student,Not applicable,Yes,Free lancing ,Yes,Maybe,Sometimes,Fewer job opportunities,Private,Yes,Job creation
+18–24,Male,Undergraduate,Student,Not applicable,Yes,Part-time,Yes,Yes,Yes,Lack of skills,Government,Yes,Skill development
+18–24,Male,Undergraduate,Student,Not applicable,Yes,Full-time,Yes,Yes,No,Lack of experience,Other,No,Job creation
+25–34,Male,Postgraduate,Employed,More than 1 year,Yes,Full-time,Yes,Yes,Yes,Lack of skills,Private,Yes,Skill development
+18–24,Male,Undergraduate,Unemployed,6–12 months,No,Full-time,Yes,No,Yes,Lack of experience,Private,Yes,Job creation
+18–24,Male,Postgraduate,Student,Not applicable,Yes,Full-time,No,Yes,No,Fewer job opportunities,Government,Yes,Government support
+18–24,Female,Postgraduate,Student,Not applicable,No,Full-time,Yes,Yes,Yes,Lack of experience,Private,Yes,Skill development
+18–24,Male,Undergraduate,Unemployed,Less than 6 months,Yes,Full-time,Partially,Yes,Yes,Lack of experience,Private,Yes,Job creation
+18–24,Male,Undergraduate,Student,Not applicable,No,Part-time,Yes,No,Yes,Lack of skills,Private,Yes,Skill development
+18–24,Female,Undergraduate,Employed,Not applicable,No,Na,No,Yes,Sometimes,Lack of experience,Private,Yes,Skill development
+18–24,Female,Undergraduate,Employed,Not applicable,No,NA,No,Yes,Yes,Lack of experience,Private,Yes,Skill development
+18–24,Female,Postgraduate,Unemployed,Less than 6 months,No,Full-time,Yes,Yes,Yes,Lack of experience,Private,Yes,Job creation
+25–34,Female,Postgraduate,Employed,Not applicable,Yes,Full-time,Yes,Yes,Yes,Fewer job opportunities,Private,Yes,Job creation
+18–24,Female,Postgraduate,Student,6–12 months,Yes,Full-time,Partially,No,No,Fewer job opportunities,Private,Yes,Skill development
+18–24,Male,Postgraduate,Student,Less than 6 months,No,Full-time,Yes,No,No,Fewer job opportunities,Government,Yes,Job creation
+18–24,Female,Undergraduate,Employed,Not applicable,No,Part-time,Yes,Yes,Yes,Fewer job opportunities,Private,Yes,Skill development
+18–24,Male,Undergraduate,Employed,Not applicable,Yes,Full-time,Partially,No,Yes,Lack of experience,Government,Yes,Government support
+18–24,Male,Undergraduate,Student,Not applicable,No,Part-time,Partially,No,Sometimes,Lack of experience,Government,Yes,Job creation
+25–34,Male,Postgraduate,Employed,Less than 6 months,No,Full-time,Yes,Yes,No,Lack of experience,Private,Yes,Job creation
+18–24,Female,Postgraduate,Student,Not applicable,No,Full-time,Partially,No,Yes,Lack of skills,Other,Yes,Skill development
+25–34,Male,Postgraduate,Employed,Not applicable,Yes,Full-time,Yes,Yes,Sometimes,Fewer job opportunities,Private,Yes,Job creation
+18–24,Female,Postgraduate,Student,Less than 6 months,Yes,Full-time,Yes,Maybe,Sometimes,Lack of experience,Private,Maybe,Government support
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
